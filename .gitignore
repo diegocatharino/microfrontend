@@ -1,0 +1,7 @@
+**/micro-apps/node_modules/
+**/micro-apps/dist/
+**/micro-apps/build/
+**/web-components/node_modules/
+**/web-components/dist/
+**/web-components/build/
+.DS_STORE
