@@ -1,15 +1,11 @@
-Micro Apps
+Microfrontend
 ====================
-This application to show the use of micro frontends with the micro apps approach.
+Simple example of small apps running into a microfrontend approach.
 
-# Running locally
-With docker and docker-compose installed just run:
+# Build & Run
+Install Docker and Docker-compose
 ```sh
-$ docker-compose up
+$ Terminal: docker-compose up
 ```
 
-And access http://localhost:8080.
-
-# License
-
-This project is [MIT licensed](./LICENSE).
+To view, access http://localhost:8080.
